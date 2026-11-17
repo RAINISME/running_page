@@ -123,6 +123,12 @@ jobs:
         run: |
           python run_page/nike_to_strava_sync.py ${{ secrets.NIKE_REFRESH_TOKEN }} ${{ secrets.STRAVA_CLIENT_ID }} ${{ secrets.STRAVA_CLIENT_SECRET }} ${{ secrets.STRAVA_CLIENT_REFRESH_TOKEN }}
 
+      - name: Diagnose Keep secrets
+        if: env.RUN_TYPE == 'keep'
+        run: |
+          if [ -z "${{ secrets.KEEP_MOBILE }}" ]; then echo "::error::DIAG_KEEP_MOBILE_IS_EMPTY"; else echo "::notice::DIAG_KEEP_MOBILE_IS_SET"; fi
+          if [ -z "${{ secrets.KEEP_PASSWORD }}" ]; then echo "::error::DIAG_KEEP_PASSWORD_IS_EMPTY"; else echo "::notice::DIAG_KEEP_PASSWORD_IS_SET"; fi
+
       - name: Run sync Keep script
         if: env.RUN_TYPE == 'keep'
         run: |
