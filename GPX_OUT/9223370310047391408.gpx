@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from keep</name>
+    <type>Walk</type>
+    <trkseg>
+      <trkpt lat="40.00636963514863" lon="116.48289489294477">
+        <ele>0.0</ele>
+        <time>2024-09-20T04:13:56Z</time>
+      </trkpt>
+      <trkpt lat="40.006496985875174" lon="116.48301633272611">
+        <ele>0.0</ele>
+        <time>2024-09-20T04:14:00Z</time>
+      </trkpt>
+      <trkpt lat="40.00642460032241" lon="116.48288384463268">
+        <ele>0.0</ele>
+        <time>2024-09-20T04:14:03Z</time>
+      </trkpt>
+      <trkpt lat="40.00646084314591" lon="116.48296715268118">
+        <ele>0.0</ele>
+        <time>2024-09-20T04:14:21Z</time>
+      </trkpt>
+      <trkpt lat="40.006306531406345" lon="116.48251748563116">
+        <ele>0.0</ele>
+        <time>2024-09-20T04:29:54Z</time>
+      </trkpt>
+      <trkpt lat="40.00632881869821" lon="116.48261585155649">
+        <ele>0.0</ele>
+        <time>2024-09-20T04:35:55Z</time>
+      </trkpt>
+      <trkpt lat="40.00643531984223" lon="116.48244720617954">
+        <ele>0.0</ele>
+        <time>2024-09-20T04:37:28Z</time>
+      </trkpt>
+      <trkpt lat="40.00630006713981" lon="116.48270017128517">
+        <ele>0.0</ele>
+        <time>2024-09-20T04:37:55Z</time>
+      </trkpt>
+      <trkpt lat="40.00633278108057" lon="116.48294408210162">
+        <ele>0.0</ele>
+        <time>2024-09-20T04:42:46Z</time>
+      </trkpt>
+      <trkpt lat="40.00641480689782" lon="116.48295410948589">
+        <ele>43.5439453125</ele>
+        <time>2024-09-20T04:43:04Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

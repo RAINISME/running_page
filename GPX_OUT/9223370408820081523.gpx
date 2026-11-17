@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from keep</name>
+    <type>Walk</type>
+    <trkseg>
+      <trkpt lat="39.84023894766852" lon="116.30320477711678">
+        <ele>69.79</ele>
+        <time>2021-08-03T23:46:33Z</time>
+      </trkpt>
+      <trkpt lat="39.840372136918994" lon="116.30330272739792">
+        <ele>58.99</ele>
+        <time>2021-08-03T23:46:39Z</time>
+      </trkpt>
+      <trkpt lat="39.84061088811366" lon="116.3033855797141">
+        <ele>47.57</ele>
+        <time>2021-08-03T23:46:42Z</time>
+      </trkpt>
+      <trkpt lat="39.840644631050715" lon="116.30352808852156">
+        <ele>51.44</ele>
+        <time>2021-08-03T23:46:54Z</time>
+      </trkpt>
+      <trkpt lat="39.84063535807585" lon="116.30363892326177">
+        <ele>52.19</ele>
+        <time>2021-08-03T23:47:00Z</time>
+      </trkpt>
+      <trkpt lat="39.84067996530699" lon="116.30365969178659">
+        <ele>49.46</ele>
+        <time>2021-08-03T23:47:12Z</time>
+      </trkpt>
+      <trkpt lat="39.840788666963505" lon="116.3035615258626">
+        <ele>56.38</ele>
+        <time>2021-08-03T23:47:24Z</time>
+      </trkpt>
+      <trkpt lat="39.84094253556397" lon="116.30355186483774">
+        <ele>45.89</ele>
+        <time>2021-08-03T23:47:30Z</time>
+      </trkpt>
+      <trkpt lat="39.84100202256618" lon="116.30356882256015">
+        <ele>44.49</ele>
+        <time>2021-08-03T23:47:33Z</time>
+      </trkpt>
+      <trkpt lat="39.841099919520836" lon="116.30363978338808">
+        <ele>52.57</ele>
+        <time>2021-08-03T23:47:39Z</time>
+      </trkpt>
+      <trkpt lat="39.84115302870234" lon="116.30373119704431">
+        <ele>53.61</ele>
+        <time>2021-08-03T23:47:45Z</time>
+      </trkpt>
+      <trkpt lat="39.84117153198646" lon="116.30405163311131">
+        <ele>49.06</ele>
+        <time>2021-08-03T23:47:57Z</time>
+      </trkpt>
+      <trkpt lat="39.841129200948565" lon="116.30423684483299">
+        <ele>50.37</ele>
+        <time>2021-08-03T23:48:09Z</time>
+      </trkpt>
+      <trkpt lat="39.84113454109215" lon="116.30432047786235">
+        <ele>49.38</ele>
+        <time>2021-08-03T23:48:15Z</time>
+      </trkpt>
+      <trkpt lat="39.84119358658638" lon="116.30434687690362">
+        <ele>52.28</ele>
+        <time>2021-08-03T23:48:21Z</time>
+      </trkpt>
+      <trkpt lat="39.841370724150146" lon="116.30434136125447">
+        <ele>72.18</ele>
+        <time>2021-08-03T23:48:33Z</time>
+      </trkpt>
+      <trkpt lat="39.84140720084005" lon="116.30438242225789">
+        <ele>65.04</ele>
+        <time>2021-08-03T23:48:36Z</time>
+      </trkpt>
+      <trkpt lat="39.841451942258814" lon="116.30436906382785">
+        <ele>63.34</ele>
+        <time>2021-08-03T23:48:39Z</time>
+      </trkpt>
+      <trkpt lat="39.84153385393951" lon="116.30428756662889">
+        <ele>37.48</ele>
+        <time>2021-08-03T23:48:42Z</time>
+      </trkpt>
+      <trkpt lat="39.84165476746594" lon="116.30432643585341">
+        <ele>42.18</ele>
+        <time>2021-08-03T23:48:54Z</time>
+      </trkpt>
+      <trkpt lat="39.84195009480707" lon="116.30433417626695">
+        <ele>38.05</ele>
+        <time>2021-08-03T23:49:15Z</time>
+      </trkpt>
+      <trkpt lat="39.84225072290761" lon="116.30428904344598">
+        <ele>35.89</ele>
+        <time>2021-08-03T23:49:39Z</time>
+      </trkpt>
+      <trkpt lat="39.84254683158983" lon="116.30424388539265">
+        <ele>36.34</ele>
+        <time>2021-08-03T23:50:03Z</time>
+      </trkpt>
+      <trkpt lat="39.84281234572177" lon="116.30421761861201">
+        <ele>33.29</ele>
+        <time>2021-08-03T23:50:21Z</time>
+      </trkpt>
+      <trkpt lat="39.842900281750865" lon="116.30424281403486">
+        <ele>33.69</ele>
+        <time>2021-08-03T23:50:27Z</time>
+      </trkpt>
+      <trkpt lat="39.8430177085486" lon="116.30435277760128">
+        <ele>33.39</ele>
+        <time>2021-08-03T23:50:39Z</time>
+      </trkpt>
+      <trkpt lat="39.84306387039505" lon="116.30444141506071">
+        <ele>33.46</ele>
+        <time>2021-08-03T23:50:45Z</time>
+      </trkpt>
+      <trkpt lat="39.843128694422035" lon="116.30468148956888">
+        <ele>36.11</ele>
+        <time>2021-08-03T23:51:00Z</time>
+      </trkpt>
+      <trkpt lat="39.84315929322432" lon="116.30478410043533">
+        <ele>35.81</ele>
+        <time>2021-08-03T23:51:18Z</time>
+      </trkpt>
+      <trkpt lat="39.84319136840771" lon="116.30523737663593">
+        <ele>35.96</ele>
+        <time>2021-08-03T23:51:24Z</time>
+      </trkpt>
+      <trkpt lat="39.843176589227596" lon="116.30570713700517">
+        <ele>35.39</ele>
+        <time>2021-08-03T23:51:30Z</time>
+      </trkpt>
+      <trkpt lat="39.843187208630525" lon="116.30592037954582">
+        <ele>34.72</ele>
+        <time>2021-08-03T23:51:33Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from keep</name>
+    <type>Walk</type>
+    <trkseg>
+      <trkpt lat="40.00683284331389" lon="116.48331340613238">
+        <ele>2.997955322265625</ele>
+        <time>2025-02-20T04:19:35Z</time>
+      </trkpt>
+      <trkpt lat="40.00679404849653" lon="116.48338267114852">
+        <ele>33.35113525390625</ele>
+        <time>2025-02-20T04:19:38Z</time>
+      </trkpt>
+      <trkpt lat="40.00735316816275" lon="116.48343178586701">
+        <ele>-12.899017333984375</ele>
+        <time>2025-02-20T04:20:08Z</time>
+      </trkpt>
+      <trkpt lat="40.00685950017538" lon="116.48319696553475">
+        <ele>-57.848297119140625</ele>
+        <time>2025-02-20T04:20:20Z</time>
+      </trkpt>
+      <trkpt lat="40.006579299871724" lon="116.48346500728523">
+        <ele>71.43316650390625</ele>
+        <time>2025-02-20T04:20:29Z</time>
+      </trkpt>
+      <trkpt lat="40.00680625204458" lon="116.48311165188782">
+        <ele>37.76708984375</ele>
+        <time>2025-02-20T04:24:11Z</time>
+      </trkpt>
+      <trkpt lat="40.00668809229167" lon="116.48305545570071">
+        <ele>37.702392578125</ele>
+        <time>2025-02-20T04:24:14Z</time>
+      </trkpt>
+      <trkpt lat="40.00664796739721" lon="116.48301229873705">
+        <ele>37.7222900390625</ele>
+        <time>2025-02-20T04:24:29Z</time>
+      </trkpt>
+      <trkpt lat="40.006539842589206" lon="116.48296814654746">
+        <ele>37.76983642578125</ele>
+        <time>2025-02-20T04:25:05Z</time>
+      </trkpt>
+      <trkpt lat="40.006583705169014" lon="116.4829219677981">
+        <ele>37.482666015625</ele>
+        <time>2025-02-20T04:25:38Z</time>
+      </trkpt>
+      <trkpt lat="40.00665388171271" lon="116.48298318875598">
+        <ele>35.09808349609375</ele>
+        <time>2025-02-20T04:28:32Z</time>
+      </trkpt>
+      <trkpt lat="40.00660594569552" lon="116.48300427386721">
+        <ele>34.36505126953125</ele>
+        <time>2025-02-20T04:28:41Z</time>
+      </trkpt>
+      <trkpt lat="40.00655284201283" lon="116.48296814491836">
+        <ele>33.6212158203125</ele>
+        <time>2025-02-20T04:28:47Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from keep</name>
+    <type>Walk</type>
+    <trkseg>
+      <trkpt lat="40.00657502660253" lon="116.48303137945342">
+        <ele>0.0</ele>
+        <time>2024-08-28T04:16:46Z</time>
+      </trkpt>
+      <trkpt lat="40.00640474255169" lon="116.48293202788795">
+        <ele>0.0</ele>
+        <time>2024-08-28T04:16:50Z</time>
+      </trkpt>
+      <trkpt lat="40.006198679197894" lon="116.48085528477404">
+        <ele>65.26690673828125</ele>
+        <time>2024-08-28T04:21:26Z</time>
+      </trkpt>
+      <trkpt lat="40.00609881794612" lon="116.48295314531934">
+        <ele>55.94854736328125</ele>
+        <time>2024-08-28T04:43:53Z</time>
+      </trkpt>
+      <trkpt lat="40.006400601385884" lon="116.48288384764034">
+        <ele>0.0</ele>
+        <time>2024-08-28T04:50:15Z</time>
+      </trkpt>
+      <trkpt lat="40.00645365792761" lon="116.48290391630763">
+        <ele>48.38153076171875</ele>
+        <time>2024-08-28T04:51:24Z</time>
+      </trkpt>
+      <trkpt lat="40.00647211365368" lon="116.4830594978364">
+        <ele>0.0</ele>
+        <time>2024-08-28T04:57:00Z</time>
+      </trkpt>
+      <trkpt lat="40.00639924357579" lon="116.48310266897988">
+        <ele>65.579345703125</ele>
+        <time>2024-08-28T04:57:06Z</time>
+      </trkpt>
+      <trkpt lat="40.00634648461201" lon="116.48318398082601">
+        <ele>65.7796630859375</ele>
+        <time>2024-08-28T04:57:12Z</time>
+      </trkpt>
+      <trkpt lat="40.00627366174144" lon="116.48324321232354">
+        <ele>64.395263671875</ele>
+        <time>2024-08-28T04:57:15Z</time>
+      </trkpt>
+      <trkpt lat="40.00626684187472" lon="116.48330444312434">
+        <ele>64.05718994140625</ele>
+        <time>2024-08-28T04:57:18Z</time>
+      </trkpt>
+      <trkpt lat="40.00627311533713" lon="116.48237495573501">
+        <ele>0.0</ele>
+        <time>2024-08-28T04:58:52Z</time>
+      </trkpt>
+      <trkpt lat="40.00627311533713" lon="116.48237495573501">
+        <ele>0.0</ele>
+        <time>2024-08-28T04:59:01Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

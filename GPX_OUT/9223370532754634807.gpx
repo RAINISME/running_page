@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>gpx from keep</name>
+    <type>Run</type>
+    <trkseg>
+      <trkpt lat="40.09959550048274" lon="116.29317344767607">
+        <ele>35.0</ele>
+        <time>2017-08-30T13:34:52Z</time>
+      </trkpt>
+      <trkpt lat="40.09952106917421" lon="116.29307300292824">
+        <ele>35.0</ele>
+        <time>2017-08-30T13:34:55Z</time>
+      </trkpt>
+      <trkpt lat="40.09949666789286" lon="116.29298306044667">
+        <ele>36.0</ele>
+        <time>2017-08-30T13:34:58Z</time>
+      </trkpt>
+      <trkpt lat="40.099518640435754" lon="116.29289619243312">
+        <ele>37.0</ele>
+        <time>2017-08-30T13:35:01Z</time>
+      </trkpt>
+      <trkpt lat="40.0995641482733" lon="116.29281450691617">
+        <ele>37.0</ele>
+        <time>2017-08-30T13:35:04Z</time>
+      </trkpt>
+      <trkpt lat="40.09958155202942" lon="116.29257776136778">
+        <ele>38.0</ele>
+        <time>2017-08-30T13:35:10Z</time>
+      </trkpt>
+      <trkpt lat="40.099571642980735" lon="116.29245758105412">
+        <ele>39.0</ele>
+        <time>2017-08-30T13:35:13Z</time>
+      </trkpt>
+      <trkpt lat="40.09954482425013" lon="116.29234951118708">
+        <ele>39.0</ele>
+        <time>2017-08-30T13:35:16Z</time>
+      </trkpt>
+      <trkpt lat="40.0995421943915" lon="116.29224417479752">
+        <ele>38.0</ele>
+        <time>2017-08-30T13:35:19Z</time>
+      </trkpt>
+      <trkpt lat="40.099595454443495" lon="116.29194676297978">
+        <ele>36.0</ele>
+        <time>2017-08-30T13:35:28Z</time>
+      </trkpt>
+      <trkpt lat="40.09960044435161" lon="116.29177329022446">
+        <ele>32.0</ele>
+        <time>2017-08-30T13:35:34Z</time>
+      </trkpt>
+      <trkpt lat="40.09962891754542" lon="116.29177816061767">
+        <ele>31.0</ele>
+        <time>2017-08-30T13:35:37Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
