@@ -34,3 +34,4 @@ certifi==2025.1.31
 
 # trigger sync check
 # sync trigger 2
+# diag trigger
